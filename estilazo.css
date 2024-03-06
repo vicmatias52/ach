@@ -1,0 +1,138 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  
+  }
+  #dos{
+    width:200px;
+    height:200px;
+    background :#FFDAB9;
+    border: 2px none black;
+    box-shadow: -20px 10px 50px black;
+    margin:100px;
+    padding: 50px
+  }
+  #tres{
+    width:200px;
+    height:200px;
+    background :#F0F;
+    border: 2px none black;
+    box-shadow: 5px 10px 5px black;
+    margin:100px;
+    padding: 50px
+  }
+  
+  #cuatro{
+    width:200px;
+    height:200px;
+    background : lightpink;
+    border: 2px none black;
+    box-shadow: 5px 5px 5px black;
+    margin:100px;
+    padding: 50px;
+  }
+  #cinco{
+    width:200px;
+    height:200px;
+    background :rgb(0,100,90);
+    border: 2px none black;
+    box-shadow: -20px 10px 50px black;
+    margin:100px;
+    padding: 50px
+  }
+  #seis{
+    width:200px;
+    height:200px;
+    background :rgb(30%,20%,100%);
+    border: 2px none black;
+    box-shadow: -20px 10px 50px black;
+    margin:100px;
+    padding: 50px
+  }
+  #siete{
+    width:200px;
+    height:200px;
+    background :rgba(10,20,50,0.5);
+    border: 2px none black;
+    box-shadow: -20px 10px 50px black;
+    margin:100px;
+    padding: 50px
+  }
+  #ocho{
+    width:200px;
+    height:200px;
+    background :rgba(100%,10%,0%,1);
+    border: 2px none black;
+    box-shadow: -20px 10px 50px black;
+    margin:100px;
+    padding: 50px
+  }
+  #nueve{
+    width:200px;
+    height:200px;
+    background: rgb(207,156,209);
+  background: linear-gradient(90deg, rgba(207,156,209,0.9871794871794872) 10%, rgba(211,167,207,0.9807692307692307) 49%, rgba(229,95,189,1) 81%);
+    border: 2px none black;
+    box-shadow: -20px 10px 50px black;
+    margin:100px;
+    padding: 50px
+  }
+  #diez{
+    width:200px;
+    height:200px;
+    background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 6%, rgba(148,187,233,1) 97%);
+    border: 2px none black;
+    box-shadow: -20px 10px 50px black;
+    margin:100px;
+    padding: 50px
+  }
+  #once{
+    width:200px;
+    height:200px;
+    background: rgb(234,212,222);
+  background: radial-gradient(circle, rgba(234,212,222,1) 29%, rgba(126,53,87,1) 71%);
+    border: 2px none black;
+    box-shadow: -20px 10px 50px black;
+    margin:100px;
+    padding: 50px
+  }
+  #doce{
+    width:200px;
+    height:200px;
+    background: rgb(25,54,56);
+  background: linear-gradient(0deg, rgba(25,54,56,0) 20%, rgba(173,218,228,1) 63%);
+    border: 2px none black;
+    box-shadow: -20px 10px 50px black;
+    margin:100px;
+    padding: 50px
+  }
+  
+  #trece{
+    width:200px;
+    height:200px;
+    background: rgb(101,62,104);
+  background: radial-gradient(circle, rgba(101,62,104,1) 39%, rgba(203,44,175,1) 94%);
+    border: 2px solid black;
+    box-shadow: -5px 5px 30px black;
+    margin:100px;
+    padding: 50px;
+  }
+  #catorce{
+    width:200px;
+    height:200px;
+    background : hsl(100%,200%,300%);
+    border: 2px solid black;
+    box-shadow: -5px 5px 30px black;
+    margin:100px;
+    padding: 50px;
+  }
+  #quince{
+    width:200px;
+    height:200px;
+    background :hsla(10%,20%,30%);
+    border: 2px solid black;
+    box-shadow: -5px 5px 30px black;
+    margin:100px;
+    padding: 50px;
+  }

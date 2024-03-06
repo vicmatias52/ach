@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    boxing:border-box;
+  }
+  img{
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    border: 3px solid black;
+    border-radius: 100%;
+  }
+  img:hover{
+    transition: 2s all ease;
+    transform: scale(1.2) rotate(360deg);
+  }
+  .adios { solidcolor pink;
+  }
+  input[type="text"]{
+    background:paleturquoise;
+  }
+  header>h1{
+   background: pink;
+  }
+    button.classic#primary{
+    
+    color: black;
+    background: lightgoldenrodyellow; 
+  }
+    background: lightgoldenrodyellow;
+  }
+  h2,h3,h4{
+    background: paleturquoise;
+  }

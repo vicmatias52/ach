@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+  }
+  div{
+    width:200px;
+    height:200px;
+    background :darkred;
+    border: 2px ridge black;
+    box-shadow: 0px 5px 30px black;
+    margin:100px;
+    padding: 50px;
+    
+  }
+  #uno{
+    width:200px;
+    height:200px;
+    background :plum;
+    border: 2px solid black;
+    box-shadow: -5px 5px 30px black;
+    margin:100px;
+    padding: 50px;
+    
+  }
+  #dos{
+    width:200px;
+    height:200px;
+    background : aquamarine;
+    border: 2px dashed black;
+    box-shadow: 5px 5px 30px black;
+    margin:100px;
+    padding: 50px;
+    
+  }
+  #tres{
+    width:200px;
+    height:200px;
+    background : yellow;
+    border: 2px ridge black;
+    box-shadow: 0px 5px 5px black;
+    margin:100px;
+    padding: 50px;
+    
+  }
+  #cuatro{
+    width:200px;
+    height:200px;
+    background :skyblue;
+    border: 2px double black;
+    box-shadow: 10px 5px 10px black;
+    margin:100px;
+    padding: 50px;
+    
+  }
+  #cinco{
+    width:200px;
+    height:200px;
+    background :pink;
+    border: 2px dotted black;
+    box-shadow: -10px 5px 5px black;
+    margin:100px;
+    padding: 50px;
+    
+  }
+  #seis{
+    width:200px;
+    height:200px;
+    background :red;
+    border: 2px groove black;
+    box-shadow: 0px 5px 0px black;
+    margin:100px;
+    padding: 50px;
+    
+  }
+  #siete{
+    width:200px;
+    height:200px;
+    background :gray;
+    border: 2px ridge black;
+    box-shadow: 10px 5px 10px black;
+    margin:100px;
+    padding: 50px;
+    
+  } 
+  #ocho{
+    width:200px;
+    height:200px;
+    background :plum;
+    border: 2px none black;
+    box-shadow: -20px 10px 50px black;
+    margin:100px;
+    padding: 50px;
+    
+  }
+  #nueve{
+  width:200px;
+    height:200px;
+    background : mediumpurple;
+    border: 2px hidden black;
+    box-shadow: 15px -10px 10px black;
+    margin:100px;
+    padding: 50px
+  
+  }
+  #diez{
+    width:200px;
+    height:200px;
+    background :mediumblue;
+    border: 2px dashed black;
+    box-shadow: -10px 10px 10px black;
+    margin:100px;
+    padding: 50px
+  
+  }
